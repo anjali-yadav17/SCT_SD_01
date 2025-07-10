@@ -5,7 +5,7 @@ A temperature converter program to switch between Celsius, Fahrenheit, and Kelvi
 
 ## 🎓 What I Learned
 
-- Basic temperature formulas between different units
+- Implemented accurate temperature conversion formulas between Celsius, Fahrenheit, and Kelvin.
 - Structuring a console-based program
 - Taking user input and validating it
 - Building clear, reusable functions
