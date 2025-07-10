@@ -6,9 +6,9 @@ A temperature converter program to switch between Celsius, Fahrenheit, and Kelvi
 ## 🎓 What I Learned
 
 - Implemented accurate temperature conversion formulas between Celsius, Fahrenheit, and Kelvin.
-- Structuring a console-based program
-- Taking user input and validating it
-- Building clear, reusable functions
+- Structuring a console-based program.
+- Taking user input and validating it.
+- Building clear, reusable functions.
 
 ---
 
@@ -20,7 +20,7 @@ A temperature converter program to switch between Celsius, Fahrenheit, and Kelvi
 ## 🧑‍💻 Developed By
 
 **Anjali Yadav**  
-Intern at **Skill Craft Technology**
+Intern at **SkillCraft Technology**
 
 ---
 
