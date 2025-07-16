@@ -49,7 +49,7 @@ int main() {
         }
 
         if (choice < 1 || choice > 6) {
-            cout << "Invalid choice. Please enter a number between 0 and 6." << endl;
+            cout << " Invalid choice. Please enter a number between 0 and 6." << endl;
             continue;
         }
 
@@ -58,22 +58,22 @@ int main() {
 
         switch (choice) {
             case 1:
-                cout << "Result: " << celsiusToFahrenheit(value) << " °F" << endl;
+                cout << "Result: " << celsiusToFahrenheit(value) << char(248) << "F" << endl;
                 break;
             case 2:
-                cout << "Result: " << fahrenheitToCelsius(value) << " °C" << endl;
+                cout << "Result: " << fahrenheitToCelsius(value) << char(248) << "C" << endl;
                 break;
             case 3:
-                cout << "Result: " << celsiusToKelvin(value) << " K" << endl;
+                cout << "Result: " << celsiusToKelvin(value) << "K" << endl;
                 break;
             case 4:
-                cout << "Result: " << kelvinToCelsius(value) << " °C" << endl;
+                cout << "Result: " << kelvinToCelsius(value) << char(248) << "C" << endl;
                 break;
             case 5:
-                cout << "Result: " << fahrenheitToKelvin(value) << " K" << endl;
+                cout << "Result: " << fahrenheitToKelvin(value) << "K" << endl;
                 break;
             case 6:
-                cout << "Result: " << kelvinToFahrenheit(value) << " °F" << endl;
+                cout << "Result: " << kelvinToFahrenheit(value) << char(248) << "F" << endl;
                 break;
         }
     }
