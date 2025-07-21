@@ -22,7 +22,6 @@ A temperature converter program to switch between Celsius, Fahrenheit, and Kelvi
 **Anjali Yadav**  
 Intern at **SkillCraft Technology**
 
----
 
 
 
