@@ -40,6 +40,25 @@ This program allows users to:
 
 ---
 
+## 📸 Sample Output
+
+```txt
+Temperature Converter
+
+Choose an option:
+1. Celsius to Fahrenheit
+2. Fahrenheit to Celsius
+3. Celsius to Kelvin
+4. Kelvin to Celsius
+5. Fahrenheit to Kelvin
+6. Kelvin to Fahrenheit
+0. Exit
+Enter your choice (0-6): 1
+Enter temperature value: 100
+Result: 212°F
+
+---
+
 ## 🧑‍💻 Developed By
 
 **Anjali Yadav**  
