@@ -1,5 +1,5 @@
 # SCT_SD_01
-A temperature converter program to switch between Celsius, Fahrenheit, and Kelvin. Built during my internship at Skill Craft Technology.
+A **C++ console application** that accurately converts temperatures between **Celsius, Fahrenheit, and Kelvin**. Developed as part of an internship project at **SkillCraft Technology**.
 
 ---
 
