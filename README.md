@@ -10,7 +10,7 @@ This program allows users to:
 - Choose conversions interactively via a CLI menu.
 - View precise, real-time conversion results with proper units.
 
-  ---
+---
   
 ## 🎯 Key Features
 
