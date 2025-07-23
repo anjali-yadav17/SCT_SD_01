@@ -21,15 +21,6 @@ This program allows users to:
   
 ---
 
-## 🎓 What I Learned
-
-- Implemented accurate temperature conversion formulas between Celsius, Fahrenheit, and Kelvin.
-- Structuring a console-based program.
-- Taking user input and validating it.
-- Building clear, reusable functions.
-
----
-
 ## 🛠️ Technologies Used
 
 | Tech | Details |
