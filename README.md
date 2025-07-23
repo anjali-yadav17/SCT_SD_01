@@ -13,9 +13,13 @@ A temperature converter program to switch between Celsius, Fahrenheit, and Kelvi
 ---
 
 ## 🛠️ Technologies Used
-- Language: C++
-- IDE: VS Code
-- CLI-Based interface
+| Tech | Details |
+|------|---------|
+| 💻 Language | C++ |
+| 🧑‍💻 IDE | Visual Studio Code |
+| ⚙️ Interface | Command-Line (CLI) |
+
+---
 
 ## 🧑‍💻 Developed By
 
