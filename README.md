@@ -31,6 +31,7 @@ This program allows users to:
 ---
 
 ## 🛠️ Technologies Used
+
 | Tech | Details |
 |------|---------|
 | 💻 Language | C++ |
