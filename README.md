@@ -3,7 +3,7 @@ A **C++ console application** that accurately converts temperatures between **Ce
 
 ---
 
-## 📚 About the Project
+## 📘 Project Overview
 
 This program allows users to:
 - Convert temperature values between the three major units.
