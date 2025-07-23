@@ -56,9 +56,3 @@ Choose an option:
 Enter your choice (0-6): 1
 Enter temperature value: 100
 Result: 212°F
-
-
-
-
-
-
