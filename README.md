@@ -14,11 +14,11 @@ This program allows users to:
   
 ## 🎯 Key Features
 
-✅ Accurate conversion formulas  
-✅ User-friendly console interface  
-✅ Real-time interactive menu  
-✅ Clean and modular code structure
-
+- Convert between Celsius, Fahrenheit, and Kelvin using scientifically accurate formulas
+- User-friendly, text-based interface with clear options
+- Get instant results after entering your temperature
+- Prevents invalid input, making the program stable and error-resistant
+  
 ---
 
 ## 🎓 What I Learned
