@@ -12,7 +12,7 @@ This program allows users to:
 
 ---
   
-## 🎯 Key Features
+## 🔍 Key Features
 
 - Convert between Celsius, Fahrenheit, and Kelvin using scientifically accurate formulas
 - User-friendly, text-based interface with clear options
