@@ -18,6 +18,7 @@ This program allows users to:
 - User-friendly, text-based interface with clear options
 - Get instant results after entering your temperature
 - Prevents invalid input, making the program stable and error-resistant
+-  You can run this program using VS Code, or any C++ compatible online or offline platform
   
 ---
 
