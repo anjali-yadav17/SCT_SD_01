@@ -36,7 +36,6 @@ This program allows users to:
 
 ```txt
 Temperature Converter
-
 Choose an option:
 1. Celsius to Fahrenheit
 2. Fahrenheit to Celsius
